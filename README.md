@@ -1,4 +1,4 @@
-# 💊 ha-medication-reminder
+# 💊 Medication Reminder (YAML package)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-config-blue.svg)
@@ -11,6 +11,8 @@ Home Assistant Companion app**, with logbook accountability for who marked each 
 
 No cloud service, no subscription, no external task app. Home Assistant itself
 is the sync layer.
+
+**Want the UI and the extra features?** This is the lightweight, pure-YAML package: the core reminder, nag, and missed-dose flow, set up by editing a YAML list. The full [ha-medication-reminder](https://github.com/magikh0e/ha-medication-reminder) custom integration adds UI-managed schedules (no YAML), supply, cost, and refill tracking, as-needed (PRN) meds, per-medication detail, a next-dose sensor and calendar, caregiver and admin dashboards, and localized config screens. Prefer a YAML-only setup with no custom integration? Use this one; otherwise use that.
 
 ## Why
 
