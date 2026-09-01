@@ -1,3 +1,9 @@
+> ## ⚠️ Deprecated
+>
+> This YAML package is no longer actively maintained. Everything it does, plus a full UI and many more features, now lives in the **[Medication Reminder custom integration](https://github.com/magikh0e/ha-medication-reminder)**, installable from the default HACS store.
+>
+> The repo stays up for anyone still running the YAML version or wanting to fork it, but new features and fixes go into the integration. Setting this up fresh? Use the integration instead.
+
 # 💊 Medication Reminder (YAML package)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
